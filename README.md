@@ -11,7 +11,5 @@
   <a href="http://qiita.com/bigfive0907">
     <img height="20" src="https://qiita-badge.apiapi.app/s/bigfive0907/posts.svg" />
   </a>
-  <//qiita.com/bigfive0907">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/bigfive0907/contributions.svg" />
-  </a>
+  
 </p>
