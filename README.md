@@ -3,9 +3,6 @@
     <img src="https://komarev.com/ghpvc/?username=bigfive0907" alt="bigfive0907" />
   </a>
 
-  <a href="https://github.com/bigfive0907">
-    <img height="20" src="https://img.shields.io/github/followers/bigfive0907?label=follow&logo=github&style=flat" />
-  </a>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
