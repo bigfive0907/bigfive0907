@@ -26,8 +26,7 @@
 
 <div>
 <p align="center">
-<img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=bigfive0907&show_icons=true&locale=en&layout=compact" alt="bigfive0907" />
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bigfive0907&show_icons=true&locale=en" alt="bigfive0907" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=bigfive0907&show_icons=true&locale=en" alt="bigfive0907" />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bigfive0907&" alt="bigfive0907" />
 </p>
 </div>
